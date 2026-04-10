@@ -1,7 +1,8 @@
 Materi dan Timeline kuliah SIM kelas B
-1. Pengantar kuliah dan koneksi
+1. Pengantar koneksi
 2. Pengenalan R-Markdown
 3. Kustomisasi dan deploy
 4. integrasi 
 5. hehe
 6. hi
+7 -
